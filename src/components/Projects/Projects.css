@@ -1,0 +1,9 @@
+.pf-card {
+    width: 90vw;
+    max-width: 1080px;
+    margin: 200px auto;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    flex-wrap: wrap;
+}

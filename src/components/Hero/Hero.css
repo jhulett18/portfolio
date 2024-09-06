@@ -1,0 +1,14 @@
+main {
+    flex: 1 1 0%;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+p{
+    margin: 0;
+}
+
+.p-spacing{
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
